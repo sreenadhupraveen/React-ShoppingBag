@@ -1,0 +1,20 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+   "start": "webpack-dev-server --port 3001 --inline --content-base ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fresh-theme-bootstrap": "^0.3.2",
+    "jquery": "^3.1.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
